@@ -1,2 +1,2 @@
 # Calculator
-A simple boostrap calculator @matadorhernan
+It will do all basic functions
